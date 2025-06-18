@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/barcode-generator/static/css/main.e6c13ad2.css",
+    "main.js": "/barcode-generator/static/js/main.c9a5e92d.js",
+    "static/js/453.0ced301d.chunk.js": "/barcode-generator/static/js/453.0ced301d.chunk.js",
+    "index.html": "/barcode-generator/index.html",
+    "main.e6c13ad2.css.map": "/barcode-generator/static/css/main.e6c13ad2.css.map",
+    "main.c9a5e92d.js.map": "/barcode-generator/static/js/main.c9a5e92d.js.map",
+    "453.0ced301d.chunk.js.map": "/barcode-generator/static/js/453.0ced301d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c9a5e92d.js"
+  ]
+}
